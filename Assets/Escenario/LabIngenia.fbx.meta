@@ -7,8 +7,23 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Logo2
+    second: {fileID: 2100000, guid: 662dcae6bf595ba49bdd575925b47357, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Logo2.001
+    second: {fileID: 2100000, guid: 117b9fac7c0138549adf5f85aaf54731, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Logo2.002
+    second: {fileID: 2100000, guid: a22635a03b3fc5347a88c2691c91a8d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Logos
-    second: {fileID: 2100000, guid: d25f160b74286cd47b25f233bf98c551, type: 2}
+    second: {fileID: 2100000, guid: 326859e610e8a024eafcf672427a585a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

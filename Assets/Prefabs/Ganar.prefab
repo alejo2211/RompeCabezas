@@ -44,13 +44,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 958194114a36ffe478ee47019fadcebd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pieza1: {fileID: 0}
-  pieza2: {fileID: 0}
-  pieza3: {fileID: 0}
-  pieza4: {fileID: 0}
-  pieza5: {fileID: 0}
-  pieza6: {fileID: 0}
-  pieza7: {fileID: 0}
-  pieza8: {fileID: 0}
-  pieza9: {fileID: 0}
+  fichas:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  posicionesPivote:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   ganaste: {fileID: 0}
+  fichasCorrectas: 0

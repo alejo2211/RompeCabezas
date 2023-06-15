@@ -31,4 +31,17 @@ public class Ficha : MonoBehaviour
             snapPoint = null;
         }
     }
+
+    public void Agarrar()
+    {
+        
+        sostenido = true;
+    }
+
+    public void Soltar()
+    {
+        sostenido = false;
+        
+        Ganar.singleton.Check();
+    }
 }
